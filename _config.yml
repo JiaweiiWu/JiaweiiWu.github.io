@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "JW WOW"
+title                    : "Jiawei's Homepage"
 title_separator          : "-"
-name                     : &name "JW"
-description              : &description "personal description"
+name                     : &name "Jiawei Wu"
+description              : &description "Research Assistant at Westlake University"
 url                      : https://jiaweiiwu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JiaweiiWu/JiaweiiWu.github.io"
@@ -22,17 +22,17 @@ repository               : "JiaweiiWu/JiaweiiWu.github.io"
 author:
   # Biographic information
   avatar           : "jw.jpg"
-  name             : "JW"
+  name             : "Jiawei Wu"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Research assistant at Westlake University, interested in medical artificial intelligence."
+  location         : "Hangzhou,China"
+  employer         : "Westlake University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "wujiawei@westlake.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com.sg/citations?user=Cg75V1YAAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
